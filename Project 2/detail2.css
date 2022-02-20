@@ -1,0 +1,94 @@
+
+.navbar-brand{
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 0.8%;
+    margin-left: 0%;font-family: 'Times New Roman', Times, serif;
+
+   
+}
+
+.navbar-form navbar-left{
+    margin-left:0% ; 
+    margin-top: 0.8%;
+}
+.btn-group{
+    margin-top: 0.8%; 
+    margin-left:0%;
+}
+.head1{
+    float: right; 
+    margin-top: -3.3%;
+    margin-right: 39%; 
+    font-size: 15px;
+     color: white;
+    
+}
+.head2{
+    float: right; 
+    margin-top: -3.3%;
+    margin-right: 29%; 
+    font-size: 15px;
+     color: white;
+    
+}
+.head3{
+    float: right; 
+    margin-top: -3.3%;
+    margin-right: 17%; 
+    font-size: 15px;
+     color: white;
+    
+}
+.rose{
+    height: 420px;
+    width: 100%;
+}
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-size: 65px;
+    color: white;
+    border-radius: inherit;
+}
+.onecentered {
+    position: absolute;
+    top: 44%;
+    left: 41%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: white;
+}
+.twocentered {
+    position: absolute;
+    top: 61%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.lili{
+    height: 420px;
+    width: 100%;
+}
+.lili1{
+    height: 420px;
+    width: 68%;
+    float: left;
+}
+
+.lili2{
+    height: 420px;
+    width: 32%;
+    float: left;
+    background-color: #f5f7fa;
+}
+.media-object{
+    width: 550px;
+}
+
+
